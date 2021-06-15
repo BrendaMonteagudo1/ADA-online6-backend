@@ -6,7 +6,7 @@ import java.util.Date;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "prestamo")
+@Table(name = "prestamos")
 public class Prestamo {
 
     @Id //que es una PK.
